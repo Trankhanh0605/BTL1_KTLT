@@ -1,0 +1,1 @@
+g++ -o main main.cpp tay_nguyen_campaign.cpp
